@@ -17,4 +17,4 @@ Deliverable 3: A written report for the statistical analysis (README.md)
 
 June Temperatures
 	
-	![](Surfs_Up_Analysis/"C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\June_Temperatures.png")
+	![]("C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\June_Temperatures.png")
