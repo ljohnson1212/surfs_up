@@ -24,8 +24,6 @@ December Temperatures
 	![](C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\December_Temperatures.png")
 
 
-# RESULTS
-
 	1. The average recorded temperature in June is about 75 degrees, which is 4 degrees higher than the average temp in December.
 	2. This represents a -5% change in average temperature from June to December
 	3. The gap of the max and min temperatures is less in June compared to December. 
