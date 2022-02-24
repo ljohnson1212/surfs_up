@@ -17,11 +17,11 @@ Deliverable 3: A written report for the statistical analysis (README.md)
 
 June Temperatures
 	
-	![]("C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\June_Temperatures.png")
+	<"C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\June_Temperatures.png">
 
 December Temperatures
 
-	![]("C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\December_Temperatures.png")
+	<"C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\December_Temperatures.png">
 
 
 # RESULTS
