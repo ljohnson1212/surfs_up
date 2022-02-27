@@ -17,11 +17,11 @@ Deliverable 3: A written report for the statistical analysis (README.md)
 
 June Temperatures
 	
-	![]("C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\June_Temperatures.png")
+	![June Temperatures]("C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\June_Temperatures.png")
 
 December Temperatures
 
-	![](C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\December_Temperatures.png")
+	![December Temperatures](C:\Users\lawre\OneDrive\Documents\GitHub\Surfs_Up_Analysis\December_Temperatures.png")
 
 
 	1. The average recorded temperature in June is about 75 degrees, which is 4 degrees higher than the average temp in December.
